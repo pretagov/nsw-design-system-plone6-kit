@@ -1,0 +1,8 @@
+{
+  "nsw-design-system-plone6": {
+    "url": "https://github.com/pretagov/nsw-design-system-plone6.git",
+    "path": "src",
+    "package": "nsw-design-system-plone6",
+    "tag": "0.1.0"
+  }
+}

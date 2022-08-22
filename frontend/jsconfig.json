@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "paths": {
+            "nsw-design-system-plone6": [
+                "addons/nsw-design-system-plone6/src"
+            ]
+        },
+        "baseUrl": "src"
+    }
+}

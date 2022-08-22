@@ -1,0 +1,67 @@
+# Node
+node_modules
+coverage
+jsdoc
+webpack-assets.json
+webpack-stats.json
+npm-debug.log
+dist
+junit.xml
+eslint.xml
+yarn-error.log
+build
+
+# Other
+.DS_Store
+.idea
+lighthouse-report.html
+.vscode/
+.#*
+*~
+
+# Python
+/backend/.installed.cfg
+/backend/.mr.developer.cfg
+/backend/bin/
+/backend/develop-eggs/
+/backend/egg-cache/
+/backend/eggs/
+/backend/include/
+/backend/lib/
+/backend/lib64/
+/backend/notebook/env/
+/backend/parts/
+/backend/share/python-wheels/
+/backend/var/
+/backend/venv/
+/bin/
+/lib/
+.Python
+include
+pip-selfcheck.json
+pyvenv.cfg
+share
+/api/lib64
+
+# locales
+locales/*.json
+
+# Tests
+/tests/bin
+/tests/develop-eggs
+/tests/parts
+/tests/.installed.cfg
+*.pyc
+geckodriver.log
+log.html
+output.xml
+report.html
+selenium-screenshot-*.png
+/selenium/
+cypress/videos/
+cypress/screenshots
+
+# Local environment setup
+.env
+public/critical.css
+backend/src
