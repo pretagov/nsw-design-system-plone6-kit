@@ -1,4 +1,4 @@
-# nsw-design-system-plone6-kit
+# NSW Design System Plone 6 starter kit
 
 The [NSW Design System Plone 6 starter kit](https://digitalnsw.pretagov.com.au/) is an all-in-one solution to quickly get you started with a fully [NSW Gov Branding complaint](https://www.nsw.gov.au/branding/nsw-government-brand-framework)
 site using the latest v3 version of the [NSW Design System](https://github.com/digitalnsw/nsw-design-system) and the flexibility and security of [Plone 6](https://plone.org/what-is-plone/plone/plone-6) at your editors fingertips. 
@@ -13,19 +13,20 @@ To get started with the starter kit, [view the demo](https://digitalnsw.pretagov
 
 
 ### Who should use the NSW Design System
-#### Branding Compliance: 
+#### For Branding Compliance: 
 Using a tookkit like the [NSW Design System Plone 6 starter kit](https://digitalnsw.pretagov.com.au/) is one of the fastest ways to comply to the [NSW Gov Branding guidelines](https://www.nsw.gov.au/branding/nsw-government-brand-framework)
 
-#### Accessibility
-Good implimentations of the [NSW Design System](https://github.com/digitalnsw/nsw-design-system) inherit it's WCAG compliants
-#### Excellent User experience: 
+#### For Accessibility
+Good implimentations of the [NSW Design System](https://github.com/digitalnsw/nsw-design-system) inherit it's [WCAG compliance](https://www.digital.nsw.gov.au/delivery/accessibility-and-inclusivity/accessibility-resources).
+
+#### For User experience: 
 Masterbrand or Independent both benefit from consistent and well designed forms and visual components
 
 ### Why [Plone 6](https://plone.org/what-is-plone/plone/plone-6)
 #### For the public
 Blazing Fast React based rendering means both search engines and users find information more quickly
 #### For Editors
-Layout Control via the [most advanced Open Source WYSIWYG component based editor](https://plone.org/what-is-plone/plone/plone-6) means editors can communicate in the most effective and visually appealing way. [Try the Plone 6 Editor now](https://6.demo.plone.org/).
+Layout Control via the [most advanced Open Source WYSIWYG component based editor](https://plone.org/what-is-plone/plone/plone-6) means editors can communicate in the effective and visually appealing ways while keep all content responsive for mobile viewing. [Try the Plone 6 Editor now](https://6.demo.plone.org/).
 #### For Developers
 React with a mature headless CMS makes adding custom functionality fast and cost effective. No code content types reduce coding required.
 
