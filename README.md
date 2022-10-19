@@ -12,21 +12,32 @@ To get started with the starter kit, [view the demo](https://digitalnsw.pretagov
 
 
 ### Who should use the NSW Design System
+#### Branding Compliance: 
+Using a tookkit that impliments the Design System is one of the fastest ways to comply to the [NSW Gov Branding guidelines](https://www.nsw.gov.au/branding/nsw-government-brand-framework)
 
-- Branding Compliance: Using a tookkit that impliments the Design System is one of the fastest ways to comply to the NSW Branding guidelines
-- Accessibility: Good implimentations of the Design System inherit it's WCAG compliants
-- Excellent User experience: Masterbrand or Independent both benifit from consistent and well designed forms and visual components
+#### Accessibility
+Good implimentations of the [NSW Design System](https://github.com/digitalnsw/nsw-design-system) inherit it's WCAG compliants
+#### Excellent User experience: 
+Masterbrand or Independent both benefit from consistent and well designed forms and visual components
 
 ### Why Plone 6
-- For the public: Blazing Fast React based rendering means both search engines and users find information more quickly
-- For Editors: Layout Control via the most advanced Open Source WYSIWYG component based editor means editors can communicate in the most effective and visually appealing way
-- For Developers: React with a headless CMS make adding custom functionality cost effective
-- For Content governance: Packed with features for large organisations to keep content consistent and up to date like Fine grained permissions, customisable workflow, mutliple draft support, content rules.
+#### For the public
+Blazing Fast React based rendering means both search engines and users find information more quickly
+#### For Editors
+Layout Control via the [most advanced Open Source WYSIWYG component based editor](https://6.demo.plone.org/) means editors can communicate in the most effective and visually appealing way
+#### For Developers
+React with a headless CMS make adding custom functionality cost effective
 
 ### Why Plone
-- Security: There is a reason Plone is trusted by CIA, FBI and others. [Plone's Security track record](https://plone.org/security) is unparalleled with over 20years and no major security breaches
-- All inclusive: Search, form builders, component based content editor, SEO optimisation, Workflow... all free. No hidden paid for features.
-- Future Proof: Foundation Open source means you get an ecosystem of integrators and an ecosystem of plugins available for free and no single company who can cancel your IT investment with a single decision.
+#### Best Security
+There is a reason Plone is trusted by CIA, FBI and others. [Plone's Security track record](https://plone.org/security) is unparalleled with over 20years and no major security breaches
+#### For Content governance
+Packed with features for large organisations to keep content consistent and up to date like Fine grained permissions, customisable workflow, mutliple draft support, content rules and multilingual.
+
+#### All inclusive
+Search, form builders, component based content editor, SEO optimisation, Workflow... all free. No hidden paid features.
+### Future Proof
+Foundation Open source means you get an ecosystem of integrators and an [ecosystem of plugins](https://plone.org/download/add-ons) available for free and no single company who can cancel your IT investment with a single decision.
 
 
 ### Support & Contributing
