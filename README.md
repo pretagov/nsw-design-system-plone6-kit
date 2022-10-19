@@ -10,17 +10,28 @@ To get started with the starter kit, [view the demo](https://digitalnsw.pretagov
 
 [Plone 6 NSW Design System Demo](https://digitalnsw.pretagov.com.au/).
 
-### What is Plone
 
-Plone is an open source, enterprise-grade, all-in-one content management system. Powered by a snappy, modern React front end with a highly extensible and secure backend, Plone offers unparalleled usability, security, and customizability. Plone is run by the Plone Foundation, a non-profit formed by members and companies all over the world with the purpose of promoting and developing Plone. For more information on Plone, visit [plone.org](https://plone.org/) or reach out to the [Plone community](https://plone.org/community).
+### Who should use the NSW Design System
 
-## Features
+- Branding Compliance: Using a tookkit that impliments the Design System is one of the fastest ways to comply to the NSW Branding guidelines
+- Accessibility: Good implimentations of the Design System inherit it's WCAG compliants
+- Excellent User experience: Masterbrand or Independent both benifit from consistent and well designed forms and visual components
 
-- Out-the-box V3 NSW Design System best practises
-- Highly customisable page builder
-- Fully editable search experience
+### Why Plone 6
+- For the public: Blazing Fast React based rendering means both search engines and users find information more quickly
+- For Editors: Layout Control via the most advanced Open Source WYSIWYG component based editor means editors can communicate in the most effective and visually appealing way
+- For Developers: React with a headless CMS make adding custom functionality cost effective
+- For Content governance: Packed with features for large organisations to keep content consistent and up to date like Fine grained permissions, customisable workflow, mutliple draft support, content rules.
+
+### Why Plone
+- Security: There is a reason Plone is trusted by CIA, FBI and others. [Plone's Security track record](https://plone.org/security) is unparalleled with over 20years and no major security breaches
+- All inclusive: Search, form builders, component based content editor, SEO optimisation, Workflow... all free. No hidden paid for features.
+- Future Proof: Foundation Open source means you get an ecosystem of integrators and an ecosystem of plugins available for free and no single company who can cancel your IT investment with a single decision.
+
 
 ### Support & Contributing
+
+For more information on Plone, visit [plone.org](https://plone.org/) or reach out to the [Plone community](https://plone.org/community).
 
 Feel free to open a [GitHub issue](https://github.com/pretagov/nsw-design-system-plone6-kit/issues) for any bug reports, feature requests or question about hosting. We welcome any and all community contributions and feedback! A contributing guide is in-progress, but highly encourage you to open an issue or get in touch. Support for hosting can be found by [our contributors](#contributors).
 
