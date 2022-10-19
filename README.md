@@ -17,25 +17,24 @@ To get started with the starter kit, [view the demo](https://digitalnsw.pretagov
 Using a tookkit like the [NSW Design System Plone 6 starter kit](https://digitalnsw.pretagov.com.au/) is one of the fastest ways to comply to the [NSW Gov Branding guidelines](https://www.nsw.gov.au/branding/nsw-government-brand-framework)
 
 #### For Accessibility
-Good implimentations of the [NSW Design System](https://github.com/digitalnsw/nsw-design-system) inherit it's [WCAG compliance](https://www.digital.nsw.gov.au/delivery/accessibility-and-inclusivity/accessibility-resources).
+Good implimentations of the [NSW Design System](https://github.com/digitalnsw/nsw-design-system) inherit it's [WCAG 2.1 AA Compliance](https://www.digital.nsw.gov.au/delivery/accessibility-and-inclusivity/accessibility-resources).
 
 #### For User experience: 
-Masterbrand or Independent both benefit from consistent and well designed forms and visual components
+From Masterbrand to full Independent NSW Gov enitity, using the NSW Gov Design System your users benefitfrom consistent and well designed forms and visual components. [NSW Design System Plone 6 starter kit](https://digitalnsw.pretagov.com.au/) has full support for Independent, co-brand and endorsed in addition to Masterbrand sites.
 
 ### Why [Plone 6](https://plone.org/what-is-plone/plone/plone-6)
 #### For the public
-Blazing Fast React based rendering means both search engines and users find information more quickly
+Blazing fast Page Loads due to React based rendering means both search engines and users find information more quickly. “For every extra second it takes your site to load, conversion rates drop by an average of 4.42% (Portent, 2019).”
 #### For Editors
 Layout Control via the [most advanced Open Source WYSIWYG component based editor](https://plone.org/what-is-plone/plone/plone-6) means editors can communicate in the effective and visually appealing ways while keep all content responsive for mobile viewing. [Try the Plone 6 Editor now](https://6.demo.plone.org/).
 #### For Developers
 React with a mature headless CMS makes adding custom functionality fast and cost effective. No code content types reduce coding required.
-
 #### For DevOps
-Modern docker based deployment, [security patch support for 2 major versions](https://plone.org/security/hotfixes/) and the move away from Python 2.7 which no longer has security patch support.
+Modern docker based deployment, [security patch support for 2 major versions](https://plone.org/security/hotfixes/) and replacing unsupported Python 2.7 with Python 3.10 makes maintaining Plone 6 solutions easy. As a decoupled CMS, Plone 6 is both less susceptible to DDOS attacks and is now even more secure.
 
 ### Why Plone
 #### Best Security
-There is a reason Plone is trusted by CIA, FBI and others. [Plone's Security track record](https://plone.org/security) is unparalleled with over 20years and no major security breaches. Python 3 on the backend enhances security.
+There is a reason Plone is trusted by CIA, FBI and governments worldwide. [Plone's Security track record](https://plone.org/security) is unparalleled with over 20years and no major security breaches.
 #### For Content governance
 Packed with features for large organisations to keep content consistent and up to date like Fine grained permissions, customisable workflow, mutliple draft support, content rules and multilingual.
 
