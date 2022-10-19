@@ -28,7 +28,7 @@ Layout Control via the [most advanced Open Source WYSIWYG component based editor
 #### For Developers
 React with a mature headless CMS makes adding custom functionality fast and cost effective. No code content types reduce coding required.
 
-### For DevOps
+#### For DevOps
 Modern docker based deployment, [security patch support for 2 major versions](https://plone.org/security/hotfixes/) and the move away from Python 2.7 which no longer has security patch support.
 
 ### Why Plone
@@ -39,7 +39,7 @@ Packed with features for large organisations to keep content consistent and up t
 
 #### All inclusive
 Custom Search with filters, form builders, component based content editor, SEO optimisation, Workflow... all free. No hidden paid features.
-### Future Proof
+#### Future Proof
 Foundation Open source means you get an ecosystem of integrators and an [ecosystem of plugins](https://plone.org/download/add-ons) available for free and no single company who can cancel your IT investment with a single decision.
 
 
