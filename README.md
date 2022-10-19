@@ -20,22 +20,25 @@ Good implimentations of the [NSW Design System](https://github.com/digitalnsw/ns
 #### Excellent User experience: 
 Masterbrand or Independent both benefit from consistent and well designed forms and visual components
 
-### Why Plone 6
+### Why [Plone 6](https://plone.org/what-is-plone/plone/plone-6)
 #### For the public
 Blazing Fast React based rendering means both search engines and users find information more quickly
 #### For Editors
-Layout Control via the [most advanced Open Source WYSIWYG component based editor](https://6.demo.plone.org/) means editors can communicate in the most effective and visually appealing way
+Layout Control via the [most advanced Open Source WYSIWYG component based editor](https://plone.org/what-is-plone/plone/plone-6) means editors can communicate in the most effective and visually appealing way. [Try the Plone 6 Editor now](https://6.demo.plone.org/).
 #### For Developers
-React with a headless CMS make adding custom functionality cost effective
+React with a mature headless CMS makes adding custom functionality fast and cost effective. No code content types reduce coding required.
+
+### For DevOps
+Modern docker based deployment, [security patch support for 2 major versions](https://plone.org/security/hotfixes/) and the move away from Python 2.7 which no longer has security patch support.
 
 ### Why Plone
 #### Best Security
-There is a reason Plone is trusted by CIA, FBI and others. [Plone's Security track record](https://plone.org/security) is unparalleled with over 20years and no major security breaches
+There is a reason Plone is trusted by CIA, FBI and others. [Plone's Security track record](https://plone.org/security) is unparalleled with over 20years and no major security breaches. Python 3 on the backend enhances security.
 #### For Content governance
 Packed with features for large organisations to keep content consistent and up to date like Fine grained permissions, customisable workflow, mutliple draft support, content rules and multilingual.
 
 #### All inclusive
-Search, form builders, component based content editor, SEO optimisation, Workflow... all free. No hidden paid features.
+Custom Search with filters, form builders, component based content editor, SEO optimisation, Workflow... all free. No hidden paid features.
 ### Future Proof
 Foundation Open source means you get an ecosystem of integrators and an [ecosystem of plugins](https://plone.org/download/add-ons) available for free and no single company who can cancel your IT investment with a single decision.
 
