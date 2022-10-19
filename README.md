@@ -1,6 +1,7 @@
 # nsw-design-system-plone6-kit
 
-The NSW Design System Plone 6 starter kit is an all-in-one solution to quickly get you started with a full [Plone](https://plone.org/) site using the latest v3 version of the [NSW Design System](https://github.com/digitalnsw/nsw-design-system).
+The [NSW Design System Plone 6 starter kit](https://digitalnsw.pretagov.com.au/) is an all-in-one solution to quickly get you started with a fully [NSW Gov Branding complaint](https://www.nsw.gov.au/branding/nsw-government-brand-framework)
+site using the latest v3 version of the [NSW Design System](https://github.com/digitalnsw/nsw-design-system) and the flexibility and security of [Plone 6](https://plone.org/what-is-plone/plone/plone-6) at your editors fingertips. 
 
 ## Overview
 
@@ -13,7 +14,7 @@ To get started with the starter kit, [view the demo](https://digitalnsw.pretagov
 
 ### Who should use the NSW Design System
 #### Branding Compliance: 
-Using a tookkit that impliments the Design System is one of the fastest ways to comply to the [NSW Gov Branding guidelines](https://www.nsw.gov.au/branding/nsw-government-brand-framework)
+Using a tookkit like the [NSW Design System Plone 6 starter kit](https://digitalnsw.pretagov.com.au/) is one of the fastest ways to comply to the [NSW Gov Branding guidelines](https://www.nsw.gov.au/branding/nsw-government-brand-framework)
 
 #### Accessibility
 Good implimentations of the [NSW Design System](https://github.com/digitalnsw/nsw-design-system) inherit it's WCAG compliants
