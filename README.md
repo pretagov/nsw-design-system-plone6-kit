@@ -11,7 +11,7 @@ site using the latest v3 version of the [NSW Design System](https://github.com/d
 
 Using a tool-kit like the [NSW Design System Plone 6 starter kit](https://digitalnsw.pretagov.com.au/) is one of the fastest ways to comply to the [NSW Gov Branding guidelines](https://www.nsw.gov.au/branding/nsw-government-brand-framework)
 
- For Accessibility
+### For Accessibility
 
 Good implementations of the [NSW Design System](https://github.com/digitalnsw/nsw-design-system) inherit it's [WCAG 2.1 AA Compliance](https://www.digital.nsw.gov.au/delivery/accessibility-and-inclusivity/accessibility-resources).
 
@@ -32,7 +32,7 @@ Control layout with [the Volto Component based editor](https://plone.org/what-is
 
 React with a mature headless CMS makes adding custom functionality fast and cost effective. No code content types reduce coding required.
 
-### For DevOps
+### For IT
 
 Modern docker based deployment, [security patch support for 2 major versions](https://plone.org/security/hotfixes/) and replacing unsupported Python 2.7 with Python 3.10 makes maintaining Plone 6 solutions easy. As a decoupled CMS, Plone 6 is both less susceptible to DDOS attacks and is now even more secure.
 
