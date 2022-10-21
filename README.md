@@ -1,26 +1,60 @@
-# nsw-design-system-plone6-kit
+# NSW Design System Plone 6 starter kit
 
-The NSW Design System Plone 6 starter kit is an all-in-one solution to quickly get you started with a full [Plone](https://plone.org/) site using the latest v3 version of the [NSW Design System](https://github.com/digitalnsw/nsw-design-system).
-
-## Overview
-
-The starter kit is formed of two parts a REST API backend and a React frontend. See the corresponding sections below for more details.
-
-To get started with the starter kit, [view the demo](https://digitalnsw.pretagov.com.au/) or download the starter kit and run `make start` to try it locally.
+The [NSW Design System Plone 6 starter kit](https://digitalnsw.pretagov.com.au/) is an all-in-one solution to quickly get you started with a fully [NSW Gov Branding complaint](https://www.nsw.gov.au/branding/nsw-government-brand-framework)
+site using the latest v3 version of the [NSW Design System](https://github.com/digitalnsw/nsw-design-system) and the flexibility and security of [Plone 6](https://plone.org/what-is-plone/plone/plone-6).
 
 [Plone 6 NSW Design System Demo](https://digitalnsw.pretagov.com.au/).
 
-### What is Plone
+## Who should use the NSW Design System v3
 
-Plone is an open source, enterprise-grade, all-in-one content management system. Powered by a snappy, modern React front end with a highly extensible and secure backend, Plone offers unparalleled usability, security, and customizability. Plone is run by the Plone Foundation, a non-profit formed by members and companies all over the world with the purpose of promoting and developing Plone. For more information on Plone, visit [plone.org](https://plone.org/) or reach out to the [Plone community](https://plone.org/community).
+### For Branding Compliance
 
-## Features
+Using a tool-kit like the [NSW Design System Plone 6 starter kit](https://digitalnsw.pretagov.com.au/) is one of the fastest ways to comply to the [NSW Gov Branding guidelines](https://www.nsw.gov.au/branding/nsw-government-brand-framework)
 
-- Out-the-box V3 NSW Design System best practises
-- Highly customisable page builder
-- Fully editable search experience
+### For Accessibility
 
-### Support & Contributing
+Good implementations of the [NSW Design System](https://github.com/digitalnsw/nsw-design-system) inherit it's [WCAG 2.1 AA Compliance](https://www.digital.nsw.gov.au/delivery/accessibility-and-inclusivity/accessibility-resources).
+
+### For User experience
+
+From Masterbrand to full Independent NSW Gov entity, using the NSW Gov Design System your users benefit from consistent and well designed forms and visual components. [NSW Design System Plone 6 starter kit](https://digitalnsw.pretagov.com.au/) has full support for Independent, co-brand and Endorsed in addition to Masterbrand sites.
+
+## Why [Plone 6](https://plone.org/what-is-plone/plone/plone-6)
+
+### For the public
+
+Blazing fast Page Loads due to React based rendering means both search engines and users find information more quickly. “For every extra second it takes your site to load, conversion rates drop by an average of 4.42% (Portent, 2019).”
+
+### For Editors
+
+Control layout with [the Volto Component based editor](https://plone.org/what-is-plone/plone/plone-6).Editors can split individual blocks into multi-column content that will automatically adapt to any device. Building complex, responsive pages with Plone 6 is effortless.
+[Try the Plone 6 Editor now](https://6.demo.plone.org/).
+
+React with a mature headless CMS makes adding custom functionality fast and cost effective. No code content types reduce coding required.
+
+### For IT
+
+Modern docker based deployment, [security patch support for 2 major versions](https://plone.org/security/hotfixes/) and replacing unsupported Python 2.7 with Python 3.10 makes maintaining Plone 6 solutions easy. As a decoupled CMS, Plone 6 is both less susceptible to DDOS attacks and is now even more secure.
+
+## Why Plone
+
+### Best Security
+
+There is a reason Plone is trusted by CIA, FBI and governments worldwide. [Plone's Security track record](https://plone.org/security) is unparalleled with over 20years and no major security breaches.
+
+### For Content governance
+
+Packed with features for large organisations to keep content consistent and up to date like Fine grained permissions, customisable workflow, multiple draft support, content rules and multilingual.
+
+Custom Search with filters, form builders, component based content editor, SEO optimisation, Workflow... all free. No hidden paid features.
+
+### Future Proof
+
+Foundation Open source means you get an ecosystem of integrators and an [ecosystem of plugins](https://plone.org/download/add-ons) available for free and no single company who can cancel your IT investment with a single decision.
+
+## Support & Contributing
+
+For more information on Plone, visit [plone.org](https://plone.org/) or reach out to the [Plone community](https://plone.org/community).
 
 Feel free to open a [GitHub issue](https://github.com/pretagov/nsw-design-system-plone6-kit/issues) for any bug reports, feature requests or question about hosting. We welcome any and all community contributions and feedback! A contributing guide is in-progress, but highly encourage you to open an issue or get in touch. Support for hosting can be found by [our contributors](#contributors).
 
@@ -39,7 +73,9 @@ Feel free to open a [GitHub issue](https://github.com/pretagov/nsw-design-system
 - [Hero banner](https://digitalnsw.pretagov.com.au/demo-pages/hero-banner)
 - [Images](https://digitalnsw.pretagov.com.au/demo-pages/images)
 - [In-page alert](https://digitalnsw.pretagov.com.au/demo-pages/notifications)
+- [In-page navigation](https://digitalnsw.pretagov.com.au/demo-pages/in-page-navigation)
 - [List items](https://digitalnsw.pretagov.com.au/demo-pages/list-items)
+- [Link list](https://digitalnsw.pretagov.com.au/demo-pages/link-list)
 - [Main navigation](https://digitalnsw.pretagov.com.au/demo-pages)
 - [Masthead](https://digitalnsw.pretagov.com.au/demo-pages)
 - [Results bar](https://digitalnsw.pretagov.com.au/demo-pages/)
@@ -53,8 +89,6 @@ Feel free to open a [GitHub issue](https://github.com/pretagov/nsw-design-system
 - Dialog
 - Global alert
 - Hero search
-- In-page navigation
-- Link list
 - Pagination
 - Progress Indicator
 - Side navigation
@@ -65,10 +99,15 @@ Feel free to open a [GitHub issue](https://github.com/pretagov/nsw-design-system
 
 ## Getting started
 
+The starter kit is formed of two parts a REST API backend and a React frontend. See the corresponding sections below for more details.
+
+To get started with the starter kit, [view the demo](https://digitalnsw.pretagov.com.au/) or download the starter kit and run `make start` to try it locally.
+
 To get started, ensure that the following dependencies are installed:
 
 - [`yarn`](https://yarnpkg.com/getting-started/install)
 - [`docker`](https://www.docker.com/)
+- [`python`](https://www.python.org/)
 
 ### Create a site
 
