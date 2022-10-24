@@ -36,8 +36,8 @@ React with a mature headless CMS makes adding custom functionality fast and cost
 
 Modern docker based deployment.
 
-### For Security
-Includes [security patch support for 2 major versions](https://plone.org/security/hotfixes/) and replacing unsupported Python 2.7 with Python 3.10 makes maintaining Plone 6 solutions easy. As a decoupled CMS, Plone 6 is both less susceptible to DDOS attacks and is now even more secure.
+### For the latest in Security Protection
+Includes [security patch support for 2 major versions](https://plone.org/security/hotfixes/) and replacing unsupported Python 2.7 with Python 3.10 makes maintaining Plone 6 solutions easy. As a decoupled CMS, Plone 6 has best in class protection against DDOS attacks and continues to beat other CMS such as Drupal in terms of security.
 
 ## Why Plone
 
