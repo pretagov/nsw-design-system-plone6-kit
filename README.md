@@ -13,7 +13,7 @@ Using a tool-kit like the [NSW Design System Plone 6 starter kit](https://digita
 
 ### For Accessibility
 
-Good implementations of the [NSW Design System](https://github.com/digitalnsw/nsw-design-system) inherit it's [WCAG 2.1 AA Compliance](https://www.digital.nsw.gov.au/delivery/accessibility-and-inclusivity/accessibility-resources).
+Good implementations of the [NSW Design System](https://github.com/digitalnsw/nsw-design-system) will inherit [WCAG 2.1 AA Compliance](https://www.digital.nsw.gov.au/delivery/accessibility-and-inclusivity/accessibility-resources).
 
 ### For User experience
 
