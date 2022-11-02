@@ -65,3 +65,4 @@ cypress/screenshots
 .env
 public/critical.css
 backend/src
+venv

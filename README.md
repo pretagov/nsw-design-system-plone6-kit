@@ -5,55 +5,71 @@ site using the latest v3 version of the [NSW Design System](https://github.com/d
 
 [Plone 6 NSW Design System Demo](https://digitalnsw.pretagov.com.au/).
 
-## Who should use the NSW Design System v3
-
-### For Branding Compliance
-
-Using a tool-kit like the [NSW Design System Plone 6 starter kit](https://digitalnsw.pretagov.com.au/) is one of the fastest ways to comply to the [NSW Gov Branding guidelines](https://www.nsw.gov.au/branding/nsw-government-brand-framework)
-
-### For Accessibility
-
-Good implementations of the [NSW Design System](https://github.com/digitalnsw/nsw-design-system) will inherit [WCAG 2.1 AA Compliance](https://www.digital.nsw.gov.au/delivery/accessibility-and-inclusivity/accessibility-resources).
-
-### For User experience
-
-From Masterbrand to full Independent NSW Gov entity, using the NSW Gov Design System your users benefit from consistent and well designed forms and visual components. [NSW Design System Plone 6 starter kit](https://digitalnsw.pretagov.com.au/) has full support for Independent, co-brand and Endorsed in addition to Masterbrand sites.
 
 ## Why [Plone 6](https://plone.org/what-is-plone/plone/plone-6)
 
-### For the public
+### Plone: The Secure CMS
+
+There is a reason Plone is trusted by CIA, FBI and governments worldwide. [Plone's Security track record](https://plone.org/security) is unparalleled with over 20years and no major known security breaches and an impeccable CVE record for an
+a transparent open source CMS used by governments the world over.
+
+
+### It's fast
 
 Blazing fast Page Loads due to React based rendering means both search engines and users find information more quickly. “For every extra second it takes your site to load, conversion rates drop by an average of 4.42% (Portent, 2019).”
 
-### For Editors
+The [Volto Component based editor](https://plone.org/what-is-plone/plone/plone-6) makes for a snappy intuitive content creation process.
 
-Control layout with [the Volto Component based editor](https://plone.org/what-is-plone/plone/plone-6).Editors can split individual blocks into multi-column content that will automatically adapt to any device. Building complex, responsive pages with Plone 6 is effortless.
+### Beautiful pages
+
+Control layout with [the Volto Component based editor](https://plone.org/what-is-plone/plone/plone-6) means Editors can split individual blocks into multi-column content that will automatically adapt to any device. Building complex, responsive pages with Plone 6 is effortless.
 [Try the Plone 6 Editor now](https://6.demo.plone.org/).
 
-React with a mature headless CMS makes adding custom functionality fast and cost effective. No code content types reduce coding required.
+### For Content governance
 
-### For IT
+Packed with features for large organisations to keep content consistent and up to date like fine grained permissions, customisable workflow, multiple draft support, content rules and multilingual in the core.
+
+### No Code or React: Developers choice
+
+React with a mature decoupled CMS makes adding custom functionality fast and cost effective. No code content types reduce coding required to zero for many things that take developers days in another other CMS.
+
+### It's not "open core" software
+
+Enterprise grade search with custom search page builders, form builders, SEO optimisation, Workflow... all free. No hidden paid features.
+
+True Foundation Open source means you get an ecosystem of integrators and an [ecosystem of plugins](https://plone.org/download/add-ons) available for free and no single company who can cancel your IT investment with a single decision. Plone is corporation proof.
+
+
+
+## Why upgrade from Plone 5
 
 Modern docker based deployment.
 
 ### For the latest in Security Protection
 Includes [security patch support for 2 major versions](https://plone.org/security/hotfixes/) and replacing unsupported Python 2.7 with Python 3.10 makes maintaining Plone 6 solutions easy. As a decoupled CMS, Plone 6 has best in class protection against DDOS attacks and continues to beat other CMS such as Drupal in terms of security.
 
-## Why Plone
+[The Volto Component based editor](https://plone.org/what-is-plone/plone/plone-6) gives you control over page layouts
+while being more snappy and intuitive.
 
-### Best Security
 
-There is a reason Plone is trusted by CIA, FBI and governments worldwide. [Plone's Security track record](https://plone.org/security) is unparalleled with over 20years and no major security breaches.
+## Why use the NSW Design System v3
 
-### For Content governance
+A NSW government agency can comply to the NSW Government Branding with using the Design system 
+but doing so provides many benefits
+### Quicker Branding Compliance
 
-Packed with features for large organisations to keep content consistent and up to date like Fine grained permissions, customisable workflow, multiple draft support, content rules and multilingual.
+Using a tool-kit like the [NSW Design System Plone 6 starter kit](https://digitalnsw.pretagov.com.au/) is one of the fastest ways to comply to the [NSW Gov Branding guidelines](https://www.nsw.gov.au/branding/nsw-government-brand-framework)
 
-Custom Search with filters, form builders, component based content editor, SEO optimisation, Workflow... all free. No hidden paid features.
+### Accessibility at WCAG 2.1 AA
 
-### Future Proof
+Good implementations of the [NSW Design System](https://github.com/digitalnsw/nsw-design-system) will inherit [WCAG 2.1 AA Compliance](https://www.digital.nsw.gov.au/delivery/accessibility-and-inclusivity/accessibility-resources).
 
-Foundation Open source means you get an ecosystem of integrators and an [ecosystem of plugins](https://plone.org/download/add-ons) available for free and no single company who can cancel your IT investment with a single decision.
+### Components at your finger tips, Masterbrand to Independent
+
+The NSW Design System has been battle tested and refined to only give ways to express many different kinds of 
+information but to express it well.
+
+From Masterbrand to full Independent NSW Gov entity, using the NSW Gov Design System your users benefit from consistent and well designed forms and visual components. [NSW Design System Plone 6 starter kit](https://digitalnsw.pretagov.com.au/) has full support for Independent, co-brand and Endorsed in addition to Masterbrand sites.
 
 ## Support & Contributing
 
