@@ -43,14 +43,15 @@ True Foundation Open source means you get an ecosystem of integrators and an [ec
 
 ## Why upgrade from Plone 5
 
-Modern docker based deployment.
-
 ### For the latest in Security Protection
+
 Includes [security patch support for 2 major versions](https://plone.org/security/hotfixes/) and replacing unsupported Python 2.7 with Python 3.10 makes maintaining Plone 6 solutions easy. As a decoupled CMS, Plone 6 has best in class protection against DDOS attacks and continues to beat other CMS such as Drupal in terms of security.
 
-[The Volto Component based editor](https://plone.org/what-is-plone/plone/plone-6) gives you control over page layouts
-while being more snappy and intuitive.
+Modern docker based deployment makes security and maintenance simpler.
 
+### For the best in breed editing experience
+
+The [Volto Component based editor](https://plone.org/what-is-plone/plone/plone-6) makes for a snappy intuitive content creation process.
 
 ## Why use the NSW Design System v3
 
