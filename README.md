@@ -6,9 +6,9 @@ site using the latest v3 version of the [NSW Design System](https://github.com/d
 [Plone 6 NSW Design System Demo](https://digitalnsw.pretagov.com.au/).
 
 
-## Why [Plone 6](https://plone.org/what-is-plone/plone/plone-6)
+## [Plone 6](https://plone.org/what-is-plone/plone/plone-6) is build for...
 
-### Built for Design Systems
+### Design Systems
 
 - The [Volto Component based editor](https://plone.org/what-is-plone/plone/plone-6) let's you add any design system components WYSIWYG
 - Simple intuitive modern UI means no editor training
@@ -16,7 +16,7 @@ site using the latest v3 version of the [NSW Design System](https://github.com/d
 - Multi-column content that will automatically adapt to any device.
 - [Try the Plone 6 Editor now](https://6.demo.plone.org/).
 
-### Built for Content governance
+### Content governance
 
 - Built with large organisations in mind with groups, delegation, fine grained permissions and customisable workflows
 - Draft support let's you review changes to existing content before it goes live while preserving history
@@ -24,24 +24,32 @@ site using the latest v3 version of the [NSW Design System](https://github.com/d
 - No code Content rules, content types and layouts help enforce your content policies 
 - Multilingual builtin
 
-### Built for Security
+### Security
 
 - Plone is trusted by CIA, FBI and Governments worldwide 
 - [Plone's Security track record](https://plone.org/security) is over 20years and no major known security breaches
+- Built on Python and No-SQL, a secure base with an excellent security track record
+- Password strength, attempt lockouts, SSO and MFA available via plugins
 
-### Built for Speed
+### Speed
 
 - Fast page loads with React based rendering means both search engines and users find information more quickly 
 - “For every extra second it takes your site to load, conversion rates drop by an average of 4.42% (Portent, 2019)”
 - Create content quicker with The [Volto Component based editor](https://plone.org/what-is-plone/plone/plone-6)
 
+### Search
+- Best-in-class relevant results using ElasticSearch
+- Custom WYSIWYG search/listing page builder with DnD filters
+- Automatic keyword highlighting in results
+- Finds results in PDF, Word and other document formats uploaded to your site
+- Suggested search terms to improve results 
 
-### Built for Developers
+### Developers
 
 - Modern React with a mature decoupled CMS makes adding custom functionality fast and cost effective
 - No code content types, content rules, forms, workflow reduce coding required to zero means you can save developer budget and get services up quicker
 
-### Built to be Open
+### Openness
 
 - No single company who can cancel your IT investment with a single decision. Plone is a true cooperative.
 - No hidden paid features. Enterprise grade search with custom search page builders, form builders, SEO optimisation, Workflow... all free. 
