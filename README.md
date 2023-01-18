@@ -8,36 +8,44 @@ site using the latest v3 version of the [NSW Design System](https://github.com/d
 
 ## Why [Plone 6](https://plone.org/what-is-plone/plone/plone-6)
 
-### Plone: The Secure CMS
+### Built for Design Systems
 
-There is a reason Plone is trusted by CIA, FBI and governments worldwide. [Plone's Security track record](https://plone.org/security) is unparalleled with over 20years and no major known security breaches and an impeccable CVE record for an
-a transparent open source CMS used by governments the world over.
+- The [Volto Component based editor](https://plone.org/what-is-plone/plone/plone-6) let's you add any design system components WYSIWYG
+- Simple intuitive modern UI means no editor training
+- Design system guidance built in so compliance is assured
+- Multi-column content that will automatically adapt to any device.
+- [Try the Plone 6 Editor now](https://6.demo.plone.org/).
+
+### Built for Content governance
+
+- Built with large organisations in mind with groups, delegation, fine grained permissions and customisable workflows
+- Draft support let's you review changes to existing content before it goes live while preserving history
+- Tagging, related items, faceted navigation let you organise content without coding
+- No code Content rules, content types and layouts help enforce your content policies 
+- Multilingual builtin
+
+### Built for Security
+
+- Plone is trusted by CIA, FBI and Governments worldwide 
+- [Plone's Security track record](https://plone.org/security) is over 20years and no major known security breaches
+
+### Built for Speed
+
+- Fast page loads with React based rendering means both search engines and users find information more quickly 
+- “For every extra second it takes your site to load, conversion rates drop by an average of 4.42% (Portent, 2019)”
+- Create content quicker with The [Volto Component based editor](https://plone.org/what-is-plone/plone/plone-6)
 
 
-### It's fast
+### Built for Developers
 
-Blazing fast Page Loads due to React based rendering means both search engines and users find information more quickly. “For every extra second it takes your site to load, conversion rates drop by an average of 4.42% (Portent, 2019).”
+- Modern React with a mature decoupled CMS makes adding custom functionality fast and cost effective
+- No code content types, content rules, forms, workflow reduce coding required to zero means you can save developer budget and get services up quicker
 
-The [Volto Component based editor](https://plone.org/what-is-plone/plone/plone-6) makes for a snappy intuitive content creation process.
+### Built to be Open
 
-### Beautiful pages
-
-Control layout with [the Volto Component based editor](https://plone.org/what-is-plone/plone/plone-6) means Editors can split individual blocks into multi-column content that will automatically adapt to any device. Building complex, responsive pages with Plone 6 is effortless.
-[Try the Plone 6 Editor now](https://6.demo.plone.org/).
-
-### For Content governance
-
-Packed with features for large organisations to keep content consistent and up to date like fine grained permissions, customisable workflow, multiple draft support, content rules and multilingual in the core.
-
-### No Code or React: Developers choice
-
-React with a mature decoupled CMS makes adding custom functionality fast and cost effective. No code content types reduce coding required to zero for many things that take developers days in another other CMS.
-
-### It's not "open core" software
-
-Enterprise grade search with custom search page builders, form builders, SEO optimisation, Workflow... all free. No hidden paid features.
-
-True Foundation Open source means you get an ecosystem of integrators and an [ecosystem of plugins](https://plone.org/download/add-ons) available for free and no single company who can cancel your IT investment with a single decision. Plone is corporation proof.
+- No single company who can cancel your IT investment with a single decision. Plone is a true cooperative.
+- No hidden paid features. Enterprise grade search with custom search page builders, form builders, SEO optimisation, Workflow... all free. 
+- Large community of integrators and an [ecosystem of plugins](https://plone.org/download/add-ons) available for free
 
 
 
