@@ -66,3 +66,4 @@ cypress/screenshots
 public/critical.css
 backend/src
 venv
+/data

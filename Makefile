@@ -20,30 +20,13 @@ help: ## This help message
 
 # 1-line install and start for the frontend and backend. Backend is left as a background process while the frontend is the foreground process.
 start:
-	bootstrap-backend start-backend-detached frontend
+	backendd frontend
 
 # Runs the 'bootstrap-backend' and 'start-backend' commands for a 1-line install and start
 backend:
-	bootstrap-backend start-backend
-
-# Bootstrap and build the Plone backend using buildout.
-bootstrap-backend:
-	@python3 -m venv backend
-	@backend/bin/pip install --upgrade pip
-	@backend/bin/pip install -r backend/requirements.txt
-	build-backend create-site
-
-# Run buildout to update the backend
-build-backend:
-	@backend/bin/buildout
-
-# Start the backend in foreground mode
-start-backend:
-	@backend/bin/instance fg
-
-# Start the backend as a background process
-start-backend-detached:
-	@backend/bin/instance
+	docker run -d -e SITE=Plone -e CORS_ALLOW_ORIGIN='*' -e ADDONS="nswdesignsystem.plone6==0.4.3" -e PROFILES="nswdesignsystem.plone6:default" -p 8080:8080 -v $(shell pwd)/data:/app/var plone/plone-backend:6.0
+backend-foreground:
+	docker run -e SITE=Plone -e CORS_ALLOW_ORIGIN='*' -e ADDONS="nswdesignsystem.plone6==0.4.3" -e PROFILES="nswdesignsystem.plone6:default" -p 8080:8080 -v $(shell pwd)/data:/app/var plone/plone-backend:6.0
 
 # Runs the 'build-backend' and 'start-backend' commands for a 1-line install and start
 frontend:
