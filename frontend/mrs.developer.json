@@ -1,8 +1,14 @@
 {
-  "nsw-design-system-plone6": {
-    "url": "https://github.com/pretagov/nsw-design-system-plone6.git",
+  "volto-slots-editor": {
+    "url": "https://github.com/pretagov/volto-slots-editor.git",
     "path": "src",
-    "package": "nsw-design-system-plone6",
-    "tag": "0.1.0"
+    "package": "@plone-collective/volto-slots-editor",
+    "branch": "main"
+  },
+  "volto-form-block": {
+    "url": "https://github.com/pretagov/volto-form-block.git",
+    "path": "src",
+    "package": "volto-form-block",
+    "branch": "default-values"
   }
 }

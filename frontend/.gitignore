@@ -80,3 +80,5 @@ omelette
 
 public/critical.css
 src/addons/*
+.yarn
+cache
