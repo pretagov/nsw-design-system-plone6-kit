@@ -142,7 +142,7 @@
   },
   "dependencies": {
     "@plone/volto": "16.20.1",
-    "nsw-design-system-plone6": "0.8.5",
+    "nsw-design-system-plone6": "0.8.6",
     "volto-form-block": "3.2.0"
   },
   "devDependencies": {
