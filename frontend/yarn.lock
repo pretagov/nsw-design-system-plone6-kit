@@ -13451,7 +13451,7 @@ __metadata:
     eslint-plugin-prettier: 3.1.3
     jest-junit: 8.0.0
     mrs-developer: "*"
-    nsw-design-system-plone6: 0.8.5
+    nsw-design-system-plone6: 0.8.6
     postcss: 8.3.11
     postcss-scss: 4.0.6
     prettier: 2.0.5
@@ -19447,9 +19447,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nsw-design-system-plone6@npm:0.8.5":
-  version: 0.8.5
-  resolution: "nsw-design-system-plone6@npm:0.8.5"
+"nsw-design-system-plone6@npm:0.8.6":
+  version: 0.8.6
+  resolution: "nsw-design-system-plone6@npm:0.8.6"
   dependencies:
     "@eeacms/volto-accordion-block": 6.0.0
     "@eeacms/volto-columns-block": 6.3.2
@@ -19471,7 +19471,7 @@ __metadata:
     react: ">= 16.8.0"
     react-dom: ">= 16.8.0"
     volto-form-block: ">=3.0.0"
-  checksum: 8cb80cbf759a07bba419374868e3025df3ce68c7571d8a101dc1add9fe42e8874bb28d8cfe7b40c18f235dbb45c83eea6899d1c803aff12ef52ff9b12bb48673
+  checksum: 9d7e54400291fc39fbed8a3c0e487be45560f000e0400a123fd52726c26b3941f793c1cf68241e6ac719de62c0a43fca10b8a4f96bcf3a589fc5e8c9ccee8a59
   languageName: node
   linkType: hard
 
